@@ -43,6 +43,8 @@ public class User {
 	
 	private Collection<Role> roles;
 	
+	
+	//Default Constructor is neccessary as Hibernated neeeds that 
 	public User() {
 		
 	}
